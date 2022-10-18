@@ -8,7 +8,7 @@
 
 | Дата | Тип занятия | Рассмотренные темы | Ссылка на конспект |
 |------|-------------|--------------------|---------------------|
-| Неизвестно | Лекция | Разделы философии, мировоззрение, типы мировоззрения | [tex](years/year_01/semester_01/september/unknown_date.tex), [pdf](years/year_01/semester_01/september/render/unknown_date.pdf) |
+| 02.09.2022 | Лекция | Разделы философии, мировоззрение, типы мировоззрения | [tex](years/year_01/semester_01/september/02-09-2022.tex), [pdf](years/year_01/semester_01/september/render/02-09-2022.pdf) |
 | 12.09.2022 | Лекция | Мировоззрение, предмет философии, предмет философии | [tex](years/year_01/semester_01/september/12-09-2022.tex), [pdf](years/year_01/semester_01/september/render/12-09-2022.pdf) |
 | 29.09.2022 | Лекция | Досократическая греческая философия | [tex](years/year_01/semester_01/september/29-09-2022.tex), [pdf](years/year_01/semester_01/september/render/29-09-2022.pdf) |
 | **Общий документ** | --- | --- | [tex](years/year_01/semester_01/september/september.tex), [pdf](years/year_01/semester_01/september/render/september.pdf) |
