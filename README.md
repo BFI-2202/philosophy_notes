@@ -20,4 +20,5 @@
 | 04.10.2022 | Практика | Философские категории | [tex](years/year_01/semester_01/october/04-10-2022.tex), [pdf](years/year_01/semester_01/october/render/04-10-2022.pdf)       |
 | 13.10.2022 | Лекция | Классическая эллинская философия: философия Сократа, Платона, Аристотеля | [tex](years/year_01/semester_01/october/13-10-2022.tex), [pdf](years/year_01/semester_01/october/render/13-10-2022.pdf)       |
 | 27.10.2022 | Лекция | Философия эпохи Возрождения | [tex](years/year_01/semester_01/october/27-10-2022.tex), [pdf](years/year_01/semester_01/october/render/27-10-2022.pdf) |
+| 27.10.2022 | Практика | Мировоззрение Средневековья, Патристика | [tex](years/year_01/semester_01/october/27-10-2022_1.tex), [pdf](years/year_01/semester_01/october/render/27-10-2022_1.pdf) |
 | **Общий документ** | --- | --- | [tex](years/year_01/semester_01/october/october.tex), [pdf](years/year_01/semester_01/october/render/october.pdf) |
