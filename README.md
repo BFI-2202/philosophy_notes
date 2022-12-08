@@ -37,5 +37,6 @@
 
 | Дата | Тип занятия | Рассмотренные темы | Ссылка на конспект |
 |------|-------------|--------------------|---------------------|
+| 08.12.2022 | Лекция | Онтология: категории бытия; онтология диалектического материализма: аттрибуты материи, уровни и структура организации материи | [tex](years/year_01/semester_01/december/08-12-2022_0.tex), [pdf](years/year_01/semester_01/december/render/08-12-2022_0.pdf) |
 | 08.12.2022 | Практика | Экзистенциальная философия Ж.—П. Сартра, А. Камю, К. Ясперса | [tex](years/year_01/semester_01/december/08-12-2022.tex), [pdf](years/year_01/semester_01/december/render/08-12-2022.pdf) |
 | **Общий документ** | --- | --- | [tex](years/year_01/semester_01/december/december.tex), [pdf](years/year_01/semester_01/december/render/december.pdf) |
